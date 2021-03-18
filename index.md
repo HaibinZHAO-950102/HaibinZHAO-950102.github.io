@@ -47,7 +47,7 @@ Content: Design and dynamical analysis of mechanisms on packaging machinery
 Location: State Key Laboratory of Mechanical Transmission, CQU  
 Content: Study on dynamical and tribological performance of ball screw  
 
-- **Assembler**, July 2017 - Aug 2017  
+- **Assembler**, July 2016 - Aug 2016  
 Location: Qingdao Yonghe Precision Machinery Manufacturing Co., Ltd  
 Content: Bench worker, assembling machines and components  
 
