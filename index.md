@@ -39,13 +39,13 @@ Content: State estimation using few measurements by combining Kalman Filtering a
 Location: Intelligent Process Automation and Robotics Lab, KIT  
 Content: Magnetic tracking system  
 
-- **Student Research Assistant**, Nov 2016 - July 2017  
-Location: State Key Laboratory of Mechanical Transmission, CQU  
-Content: Study on dynamical and tribological performance of ball screw  
-
 - **Product Design Assistant**, July 2017 - Nov 2017  
 Location: Qingdao Yonghe Precision Machinery Manufacturing Co., Ltd  
 Content: Design and dynamical analysis of mechanisms on packaging machinery  
+
+- **Student Research Assistant**, Nov 2016 - July 2017  
+Location: State Key Laboratory of Mechanical Transmission, CQU  
+Content: Study on dynamical and tribological performance of ball screw  
 
 - **Assembler**, July 2017 - Aug 2017  
 Location: Qingdao Yonghe Precision Machinery Manufacturing Co., Ltd  
@@ -85,14 +85,11 @@ Content: Bench worker, assembling machines and components
 - **Lauguage**  
 Chinese, German, English
 
-- **Programming Language**  
-C, C++, C#, Java, Swift, Python, MATLAB
+- **Informatics**  
+C, C++, C#, Java, Swift, Python, MATLAB, Android Studio, Xamarin, Xcode, Pytotch, Visual Studio  
 
-- **Developing Tool**  
-Android Studio, Xamarin, Xcode, Pytotch, Visual Studio, ROS
-
-- **Mechatronics**  
-Solidworks, Auto CAD, Ansys, EDA
+- **Robotics**  
+ROS, Solidworks, Auto CAD, Ansys, EDA, ESP32, BLE  
 
 - **Others**  
-Microsoft Office, Latex, Windows, Ubuntu, Mac OS
+Microsoft Office, Latex, Windows, Ubuntu, Mac OS  
