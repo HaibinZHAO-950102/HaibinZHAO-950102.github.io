@@ -8,13 +8,13 @@ Supervisor: Prof. Dr.-Ing. Michael Beigl
 - **Master in Mechatronics**, Oct 2018 - Nov 2020  
 Location: Karlsruhe Institute of Technology (KIT), Germany  
 Description: The Excellence Initiative and TU9 German Universities of Technology  
-Research: Robotic & Signal Processing  
+Major: Robotic & Signal Processing  
 Supervisor: Prof. Dr.-Ing. Benjamin Noack  
 
 - **Bachelor in Mechanics**, Sep 2013 - July 2017  
 Location: Chongqing University (CQU), China  
 Description: Project _985_ University, Project _World First Class Universities_  
-Research: Mechanical Design, Manufacture, and Automation  
+Major: Mechanical Design, Manufacture, and Automation  
 Supervisor: Prof. Fanming Meng  
 
 - **High School**, Sep 2010 - July 2013, Qingdao No.2 Middle School of Shandong Province  
