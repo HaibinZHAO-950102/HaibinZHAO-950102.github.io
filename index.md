@@ -93,8 +93,3 @@ Solidworks, Auto CAD, Ansys, EDA
 
 - **Others**  
 Microsoft Office, Latex, Windows, Ubuntu, Mac OS
-
-
-$$
-a = \frac{f}{m}
-$$
