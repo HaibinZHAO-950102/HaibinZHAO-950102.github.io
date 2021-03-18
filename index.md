@@ -13,7 +13,7 @@ Supervisor: Prof. Dr.-Ing. Benjamin Noack
 
 - **Bachelor in Mechanics**  
 Location: Chongqing University (CQU), China  
-Description: Project "985" University, Project "World First Class Universities"  
+Description: Project _985_ University, Project _World First Class Universities_  
 Research: Mechanical Design, Manufacture, and Automation  
 Supervisor: Prof. Fanming Meng  
 
