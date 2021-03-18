@@ -9,12 +9,15 @@ Supervisor: Prof. Dr.-Ing. Michael Beigl
 Location: Karlsruhe Institute of Technology (KIT), Germany  
 Description: The Excellence Initiative and TU9 German Universities of Technology  
 Major: Robotic & Signal Processing  
+Grade: 1.6 (92%)  
 Supervisor: Prof. Dr.-Ing. Benjamin Noack  
 
 - **Bachelor in Mechanics**, Sep 2013 - July 2017  
 Location: Chongqing University (CQU), China  
 Description: Project _985_ University, Project _World First Class Universities_  
 Major: Mechanical Design, Manufacture, and Automation  
+GPA: 3.82/4 (92%)  
+Ranking: 1/551 in the College of Mechanical Engineering
 Supervisor: Prof. Fanming Meng  
 
 - **High School**, 2010 - 2013, Qingdao No.2 Middle School of Shandong Province  
