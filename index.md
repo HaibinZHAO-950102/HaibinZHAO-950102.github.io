@@ -17,7 +17,7 @@ Location: Chongqing University (CQU), China
 Description: Project _985_ University, Project _World First Class Universities_  
 Major: Mechanical Design, Manufacture, and Automation  
 GPA: 3.82/4 (92%)  
-Ranking: 1/551 in the College of Mechanical Engineering
+Ranking: 1/551 in the College of Mechanical Engineering  
 Supervisor: Prof. Fanming Meng  
 
 - **High School**, 2010 - 2013, Qingdao No.2 Middle School of Shandong Province  
