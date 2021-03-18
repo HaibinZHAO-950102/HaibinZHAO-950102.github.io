@@ -25,42 +25,42 @@
 - Assembler
 
 # Project
-### Fit2Ear
+- Fit2Ear
 
-### AirCase
+- AirCase
 
-### KFCS
+- KFCS
 
-### MTS
+- MTS
 
-### Study on Ball Screw
+- Study on Ball Screw
 
 # Publication
-### 1
-### 2
-### 3
-### 4
+- 1
+- 2
+- 3
+- 4
 
 # Teaching
-### Thesis
+- Thesis
 
-### Seminar and Internship
+- Seminar and Internship
 
-### Student Research Assistant
+- Student Research Assistant
 
 # Award
-### Scholarship
+- Scholarship
 
-### Patttern
+- Patttern
 
 # Skills
-### Lauguage
+- Lauguage
 Chinese, German, English
-### Programming Lauguage
+- Programming Lauguage
 C, C++, C#, Java, Swift, Python, MATLAB
-### Developing Tool
+- Developing Tool
 Android Studio, Xamarin, Xcode, Pytotch, Visual Studio, ROS
-### Mechatronics
+- Mechatronics
 Solidworks, Auto CAD, Ansys, EDA
-### Others
+- Others
 Microsoft Office, Latex, Windows, Ubuntu, Mac OS
