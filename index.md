@@ -1,21 +1,21 @@
 ## Education
 - Doctor in Informatics
-Location: KIT, Helmholtz Association, Germany
-Description: The world 6th largest research institution (Nature Index)
-Research: Ubiquitous Computing
-Supervisor: Prof. Dr.-Ing. Michael Beigl
+Location: KIT, Helmholtz Association, Germany  
+Description: The world 6th largest research institution (Nature Index)  
+Research: Ubiquitous Computing  
+Supervisor: Prof. Dr.-Ing. Michael Beigl  
 
 - Master in Mechatronics
-Location: Karlsruhe Institute of Technology (KIT), Germany
-Description: The Excellence Initiative and TU9 German Universities of Technology
-Research: Robotic & Signal Processing
-Supervisor: Prof. Dr.-Ing. Benjamin Noack
+Location: Karlsruhe Institute of Technology (KIT), Germany  
+Description: The Excellence Initiative and TU9 German Universities of Technology  
+Research: Robotic & Signal Processing  
+Supervisor: Prof. Dr.-Ing. Benjamin Noack  
 
 - Bachelor in Mechanics
-Location: Chongqing University (CQU), China
-Description: Project "985" University, Project "World First Class Universities"
-Research: Mechanical Design, Manufacture, and Automation
-Supervisor: Prof. Fanming Meng
+Location: Chongqing University (CQU), China  
+Description: Project "985" University, Project "World First Class Universities"  
+Research: Mechanical Design, Manufacture, and Automation  
+Supervisor: Prof. Fanming Meng  
 
 - High School
 Qingdao No.2 Middle School of Shandong Province
