@@ -30,19 +30,19 @@ Content:
 
 - **Student Research Assistant**, Apr 2020 - Nov 2020  
 Location: Intelligent Sensor-Actuator-Systems Laboratory, KIT  
-Content: State estimation using few measurements by combining kalman filtering and compressive sensing  
+Content: State estimation using few measurements by combining Kalman Filtering and Compressive Sensing  
 
 - **Student Research Assistant**, Oct 2019 - June 2020  
 Location: Intelligent Process Automation and Robotics Lab, KIT  
 Content: Magnetic tracking system  
 
-- **Student Research Assisatnt**, Nov 2016 - July 2017  
+- **Student Research Assistant**, Nov 2016 - July 2017  
 Location: State Key Laboratory of Mechanical Transmission, CQU  
 Content: Study on dynamical and tribological performance of ball screw  
 
-- **Product Disign Assistant**, July 2017 - Nov 2017  
+- **Product Design Assistant**, July 2017 - Nov 2017  
 Location: Qingdao Yonghe Precision Machinery Manufacturing Co., Ltd  
-Content: Design and dynamical anaylsis of mechanisms on packaging machinery  
+Content: Design and dynamical analysis of mechanisms on packaging machinery  
 
 - **Assembler**, July 2017 - Aug 2017  
 Location: Qingdao Yonghe Precision Machinery Manufacturing Co., Ltd  
@@ -82,7 +82,7 @@ Content: Bench worker, assembling machines and components
 - **Lauguage**  
 Chinese, German, English
 
-- **Programming Lauguage**  
+- **Programming Language**  
 C, C++, C#, Java, Swift, Python, MATLAB
 
 - **Developing Tool**  
