@@ -1,28 +1,28 @@
 # Education
-### Doctor in Informatics
+- Doctor in Informatics
 
-### Master in Mechatronics
+- Master in Mechatronics
 
-### Bachelor in Mechanics
+- Bachelor in Mechanics
 
-### High School
+- High School
 
-### Middle School
+- Middle School
 
-### Elementrary School
+- Elementrary School
 
 # Work and Internship
-### Scientific Researcher
+- Scientific Researcher
 
-### Student Research Assistant
+- Student Research Assistant
 
-### Student Research Assistant
+- Student Research Assistant
 
-### Student Research Assisatnt
+- Student Research Assisatnt
 
-### Product Disign Assistant
+- Product Disign Assistant
 
-### Assembler
+- Assembler
 
 # Project
 ### Fit2Ear
