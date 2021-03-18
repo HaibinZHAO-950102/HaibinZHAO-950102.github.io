@@ -11,20 +11,17 @@ Description: The Excellence Initiative and TU9 German Universities of Technology
 Research: Robotic & Signal Processing  
 Supervisor: Prof. Dr.-Ing. Benjamin Noack  
 
-- **Bachelor in Mechanics**, Sep 2013 - July 2017
+- **Bachelor in Mechanics**, Sep 2013 - July 2017  
 Location: Chongqing University (CQU), China  
 Description: Project _985_ University, Project _World First Class Universities_  
 Research: Mechanical Design, Manufacture, and Automation  
 Supervisor: Prof. Fanming Meng  
 
-- **High School**, Sep 2010 - July 2013  
-Qingdao No.2 Middle School of Shandong Province  
+- **High School**, Sep 2010 - July 2013, Qingdao No.2 Middle School of Shandong Province  
 
-- **Middle School**, Sep 2007 - July 2010  
-Qingdao No.21 Middle School of Shandong Province  
+- **Middle School**, Sep 2007 - July 2010, Qingdao No.21 Middle School of Shandong Province  
 
-- **Elementary School**, Sep 2001 - July 2007  
-Qingdao Yiyang Road Primary School  
+- **Elementary School**, Sep 2001 - July 2007, Qingdao Yiyang Road Primary School  
 
 ## Work and Internship
 - **Scientific Researcher**, Jan 2021 - Present  
