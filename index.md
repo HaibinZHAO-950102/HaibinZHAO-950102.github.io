@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
+# Education
+## Doctor in Informatics
 
-You can use the [editor on GitHub](https://github.com/HaibinZHAO-950102/HaibinZHAO-950102.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Master in Mechatronics
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Bachelor in Mechanics
 
-### Markdown
+## High School
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Middle School
 
-```markdown
-Syntax highlighted code block
+## Elementrary School
 
-# Header 1
-## Header 2
-### Header 3
+# Work and Internship
+## Scientific Researcher
 
-- Bulleted
-- List
+## Student Research Assistant
 
-1. Numbered
-2. List
+## Student Research Assistant
 
-**Bold** and _Italic_ and `Code` text
+## Student Research Assisatnt
 
-[Link](url) and ![Image](src)
-```
+## Product Disign Assistant
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Assembler
 
-### Jekyll Themes
+# Project
+## Fit2Ear
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HaibinZHAO-950102/HaibinZHAO-950102.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## AirCase
 
-### Support or Contact
+## KFCS
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## MTS
+
+## Study on Ball Screw
+
+# Publication
+## 1
+## 2
+## 3
+## 4
+
+# Teaching
+## Thesis
+
+## Seminar and Internship
+
+## Student Research Assistant
+
+# Award
+## Scholarship
+
+## Patttern
+
+# Skills
+## Lauguage
+Chinese, German, English
+## Programming Lauguage
+C, C++, C#, Java, Swift, Python, MATLAB
+## Developing Tool
+Android Studio, Xamarin, Xcode, Pytotch, Visual Studio, ROS
+## Mechatronics
+Solidworks, Auto CAD, Ansys, EDA
+## Others
+Microsoft Office, Latex, Windows, Ubuntu, Mac OS
