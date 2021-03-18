@@ -1,49 +1,55 @@
 ## Education
-- **Doctor in Informatics**  
+- **Doctor in Informatics**, Jan 2021 - Present  
 Location: KIT, Helmholtz Association, Germany  
 Description: The world 6th largest research institution (Nature Index)  
 Research: Ubiquitous Computing  
 Supervisor: Prof. Dr.-Ing. Michael Beigl  
 
-- **Master in Mechatronics**  
+- **Master in Mechatronics**, Oct 2018 - Nov 2020  
 Location: Karlsruhe Institute of Technology (KIT), Germany  
 Description: The Excellence Initiative and TU9 German Universities of Technology  
 Research: Robotic & Signal Processing  
 Supervisor: Prof. Dr.-Ing. Benjamin Noack  
 
-- **Bachelor in Mechanics**  
+- **Bachelor in Mechanics**, Sep 2013 - July 2017
 Location: Chongqing University (CQU), China  
 Description: Project _985_ University, Project _World First Class Universities_  
 Research: Mechanical Design, Manufacture, and Automation  
 Supervisor: Prof. Fanming Meng  
 
-- **High School**  
-Qingdao No.2 Middle School of Shandong Province
+- **High School**, Sep 2010 - July 2013  
+Qingdao No.2 Middle School of Shandong Province  
 
-- **Middle School**  
-Qingdao No.21 Middle School of Shandong Province
+- **Middle School**, Sep 2007 - July 2010  
+Qingdao No.21 Middle School of Shandong Province  
 
-- **Elementary School**  
-Qingdao Yiyang Road Primary School
+- **Elementary School**, Sep 2001 - July 2007  
+Qingdao Yiyang Road Primary School  
 
 ## Work and Internship
-- **Scientific Researcher**  
-Location: Helmholtz Association
+- **Scientific Researcher**, Jan 2021 - Present  
+Location: Helmholtz Association  
+Content: 
 
-- **Student Research Assistant**  
-Location: Intelligent Sensor-Actuator-Systems Laboratory, KIT
+- **Student Research Assistant**, Apr 2020 - Nov 2020  
+Location: Intelligent Sensor-Actuator-Systems Laboratory, KIT  
+Content: State estimation using few measurements by combining kalman filtering and compressive sensing  
 
-- **Student Research Assistant**  
-Location: Intelligent Process Automation and Robotics Lab, KIT
+- **Student Research Assistant**, Oct 2019 - June 2020  
+Location: Intelligent Process Automation and Robotics Lab, KIT  
+Content: Magnetic tracking system  
 
-- **Student Research Assisatnt**  
-Location: State Key Laboratory of Mechanical Transmission, CQU
+- **Student Research Assisatnt**, Nov 2016 - July 2017  
+Location: State Key Laboratory of Mechanical Transmission, CQU  
+Content: Study on dynamical and tribological performance of ball screw  
 
-- **Product Disign Assistant**  
-Location: Qingdao Yonghe Precision Machinery Manufacturing Co., Ltd
+- **Product Disign Assistant**, July 2017 - Nov 2017  
+Location: Qingdao Yonghe Precision Machinery Manufacturing Co., Ltd  
+Content: Design and dynamical anaylsis of mechanisms on packaging machinery  
 
-- **Assembler**  
-Location: Qingdao Yonghe Precision Machinery Manufacturing Co., Ltd
+- **Assembler**, July 2017 - Aug 2017  
+Location: Qingdao Yonghe Precision Machinery Manufacturing Co., Ltd  
+Content: Bench worker, assembling machines and components  
 
 
 ## Project
