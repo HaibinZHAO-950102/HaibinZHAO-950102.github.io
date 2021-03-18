@@ -29,7 +29,7 @@ Supervisor: Prof. Fanming Meng
 ## Work and Internship
 - **Scientific Researcher**, Jan 2021 - Present  
 Location: Helmholtz Association  
-Content: 
+Content: Indoor Localization, Augmented Reality, SLAM, Sensor Fusion, Sensor Networks, Ubiquitous Computing, Internet of Things
 
 - **Student Research Assistant**, Apr 2020 - Nov 2020  
 Location: Intelligent Sensor-Actuator-Systems Laboratory, KIT  
