@@ -86,7 +86,7 @@ Content: Bench worker, assembling machines and components
 Chinese, German, English
 
 - **Informatics**  
-C, C++, C#, Java, Swift, Python, MATLAB, Android Studio, Xamarin, Xcode, Pytotch, Visual Studio  
+C, C++, C#, Java, Swift, Python, MATLAB, Android Studio, Xamarin, Xcode, Pytotch, Visual Studio, JavaScript, HTML, Node.js  
 
 - **Robotics**  
 ROS, Solidworks, Auto CAD, Ansys, EDA, ESP32, BLE  
